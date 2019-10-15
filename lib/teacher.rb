@@ -4,3 +4,4 @@ class Teacher << User
 
   
 end
+require_ relative ".user.rb"
